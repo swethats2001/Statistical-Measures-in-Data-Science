@@ -1,0 +1,11 @@
+In this work: 
+1. Performed basic EDA
+2. Created a box plot and used this to determine which method seems to work best to remove outliers for this data
+3. Detected the outliers using following methods and removed it using methods like trimming / capping/ imputation using mean or median.
+a) Mean and Standard deviation
+b)Percentile method
+c) IQR(Inter quartile range method)
+d) Z Score method
+4. Drew histplot to check the normality of the column(price per sqft column) and performed transformations. Checked the skewness and kurtosis before and after the transformation.
+5. Checked the correlation between all the numerical columns and plotted a heatmap.
+6. Drew Scatter plot between the variables to check the correlation between them.
